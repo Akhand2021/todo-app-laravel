@@ -10,7 +10,7 @@
             <!-- Task Form -->
             <form id="task-form">
                 <div class="mb-2">
-                    <label class="containers">Show All Task
+                    <label class="containers">Show All Tasks
                         <input type="checkbox" id="show-all-tasks">
                         <span class="checkmark"></span>
                     </label>

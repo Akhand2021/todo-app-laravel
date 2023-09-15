@@ -33,7 +33,7 @@ class TaskController extends Controller
     return response()->json([
         'success' => true,
         'message' => 'Task created successfully.',
-        'taskHtml' => $taskHtml, // Include the HTML in the response
+        'taskHtml' => $taskHtml, 
     ]);
     }
 
